@@ -1,0 +1,9 @@
+código,nombre,marca,modelo,número_serie,ubicación,categoría,potencia,capacidad
+EQ001,Compresor Industrial,Atlas Copco,GA 22,SN-2023-001,Taller A,Compresores,22KW,500L
+EQ002,Soldadora MIG,Lincoln Electric,Power MIG 350S,SN-2023-002,Taller B,Soldadoras,350A,Monofásica
+EQ003,Tornio CNC,Haas,VF-2,SN-2023-003,Taller C,Máquinas CNC,10KW,ISO 50
+EQ004,Fresadora vertical,Bridgeport,J-400,SN-2023-004,Taller A,Fresadoras,5KW,XY 1000x600
+EQ005,Compresor de aire,Ingersoll Rand,R37i,SN-2023-005,Taller D,Compresores,37KW,1000L
+EQ006,Generador,Caterpillar,C13,SN-2023-006,Patio exterior,Generadores,300KW,Trifásico
+EQ007,Bomba hidráulica,Bosch Rexroth,A4VSO,SN-2023-007,Sistema principal,Bombas,45KW,45cc
+EQ008,Motor eléctrico,Siemens,1LE1,SN-2023-008,Sala técnica,Motores,55KW,1500RPM
